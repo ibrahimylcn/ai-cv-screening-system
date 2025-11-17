@@ -1,4 +1,5 @@
 # 📄 CV Analiz ve Ön Eleme Paneli
+<img width="1903" height="929" alt="image" src="https://github.com/user-attachments/assets/fd0ed58f-6bfa-4ae2-ae31-4641ec13c183" />
 
 <div align="center">
 

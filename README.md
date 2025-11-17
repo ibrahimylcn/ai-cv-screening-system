@@ -324,9 +324,6 @@ Bu proje özel kullanım içindir. Tüm hakları saklıdır.
 
 **İbrahim Yalçın**
 
-- GitHub: [@kullaniciadi](https://github.com/kullaniciadi)
-- Email: your.email@example.com
-
 ## 🙏 Teşekkürler
 
 - [Google Gemini AI](https://ai.google.dev/) - AI analiz teknolojisi için
